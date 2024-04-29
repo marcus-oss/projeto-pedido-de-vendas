@@ -1,0 +1,9 @@
+Desconto\CalculadoraFaixaSemDesconto.class
+Desconto\CalculadoraPrimeiraFaixaDesconto.class
+pedido\PedidoBuilder.class
+Desconto\CalculadoraDescontoSegundaFaixa.class
+pedido\ItemPedido.class
+pedido\ResumoPedido.class
+Desconto\CalculadoraDescontoTerceiraFaixa.class
+Desconto\CalculadoraFaixaDesconto.class
+pedido\Pedido.class
